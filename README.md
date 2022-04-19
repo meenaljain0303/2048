@@ -1,5 +1,5 @@
 # 2048
-This is a clone of [2048](https://play2048.co/) implemented using React. It's running live [here]().
+This is a clone of [2048](https://play2048.co/) implemented using React. 
 
 The game logic is implemented in [./src/components/mainBoard.jsx](). It was much cleaner at first, but in order to get movement animations, a lot of state needs to be saved for each of the tiles on the board.
 
