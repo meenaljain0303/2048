@@ -20,7 +20,14 @@ The animations are implemented in CSS3. Since there is a separate class for each
 To run, simply start a you can use the React standard command.
 
     npm run start
-    
+ 
+## Snapshots of the game
+
+![image](https://user-images.githubusercontent.com/75546189/163919743-3807fa75-ca6e-48f3-857b-3a47e7f9117f.png)
+![image](https://user-images.githubusercontent.com/75546189/163919961-2d6d93f8-6f7e-4f9e-86b5-6ab4048289ea.png)
+![image](https://user-images.githubusercontent.com/75546189/163920029-ce3e7910-ea64-4ea9-b699-c011ac9accbc.png)
+
+
 ## Languages and Technologies used
 Platform - VS Code 
 Languages - HTL, CSS, Javascript
