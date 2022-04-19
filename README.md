@@ -29,6 +29,6 @@ To run, simply start a you can use the React standard command.
 
 
 ## Languages and Technologies used
-Platform - VS Code 
-Languages - HTL, CSS, Javascript
-Front-end - React.js
+### Platform - VS Code 
+### Languages - HTL, CSS, Javascript
+### Front-end - React.js
